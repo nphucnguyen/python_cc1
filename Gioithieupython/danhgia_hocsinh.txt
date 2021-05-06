@@ -1,0 +1,5 @@
+Ma HS,xeploai_TB chuan,xeploai_A,xeploai_A1,xeploai_B,xeploai_C,xeploai_D
+81302633;Xuat sac;1;1;1;1;1
+81302634;Kha;1;2;2;2;2
+81302635;Kha;2;2;2;2;2
+81302636;Kha;2;2;2;2;2

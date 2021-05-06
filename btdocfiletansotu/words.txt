@@ -1,0 +1,7 @@
+Supporting members make an annual donation to the PSF to sustain the Foundation and support the Python community. They are eligible to vote for candidates for the PSF Board of Directors, changes in the PSF bylaws, and other matters related to the foundation. To become a Supporting member, follow the instructions here. My email nphucnguyen95@gmail.com and this is comment.
+
+Managing Member 
+Managing members are people who dedicate at least five hours per month working to support the Python ecosystem - by organizing Python events, managing or contributing to PSF projects, running infrastructure, participating in one of the PSF's working groups etc. For details on signing up as a contributing member, refer to this form.
+
+Contributing Member 
+Contributing members are people who dedicate at least five hours per month working on projects that advance the mission of the PSF, where the work relates to the creation or maintenance of open source software available to the public at no charge. Contributing members are eligible to vote. For details on signing up as a contributing member, refer to this form.
