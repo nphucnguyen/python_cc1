@@ -28,7 +28,10 @@ FOODS = '''
 60d
 ....
 Ẩm thực trần bình trọng
-ẩm thực phan bội châu (bánh canh, gỏi bò,bánh tráng, trứng tan, xèo, )
+ẩm thực phan bội châu (bánh canh, gỏi bò,bánh tráng, trứng tan, xèo, kem, đá me)
+ẩm thực ngô văn sở (đắt)
+ẩm thực ốc Ngọc hân công chúa
+
 
 53 
 '''
