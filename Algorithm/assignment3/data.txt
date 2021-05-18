@@ -1,0 +1,7 @@
+ID Name DayofBirth Birthplace
+5 Ha 12/09/90 HaNoi
+3 An 13/12/91 NamDinh
+8 Binh 01/05/92 ThanhHoa
+4 Lan 04/04/87 HaNam
+1 Tuan 02/02/89 BinhDinh
+6 Nhan 08/02/89 TaySon

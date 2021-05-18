@@ -1,4 +1,6 @@
-# duyet cay
+# duyet cay (chua xong, code chua chay)
+# input : dòng đầu số đỉnh
+# các dòng tiếp theo: giá trị key - index con trái - index con phải
 class Node:
     def __init__(self,data = None):
         self.data = data

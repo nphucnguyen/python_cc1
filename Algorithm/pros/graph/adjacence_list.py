@@ -5,6 +5,7 @@ class AdjNode:
         self.next = None
 
 
+# class by linkedlist
 class Graph:
     def __init__(self, num):
         # The number of vertex
@@ -45,3 +46,4 @@ if __name__ == "__main__":
     graph.add_edge(1, 2)
 
     graph.print_agraph()
+    print(graph)
